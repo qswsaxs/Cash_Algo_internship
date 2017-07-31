@@ -10,3 +10,8 @@
 
 # Research on performance measurement
 ```todo```
+
+# Other  
+**1. Extracted commission fees of futures and options**  
+**2. Created a market data inventory list**  
+**3. Made reports on Holdings of Top 10 Mutual Fund in Hong Kong**
