@@ -5,7 +5,7 @@
 **4. Wrote del_pg.py to delete product groups in trade_cal_hour_db in order to correct mistakes in the original database**  
 
 # Risk management:
-**1. Wrote pyhton programs to detect abnormal report interval**(by K-mean cluster)  
+**1. Wrote pyhton programs to detect abnormal report interval**(by K-mean cluster)  
 **2. Wrote python programs to generate report on abnormal delays of trading record for each trading group**
 
 # Research on performance measurement
